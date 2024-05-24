@@ -43,6 +43,15 @@
             <li>Operatsioonisüsteemid: Linux, Windows</li>
         </ul>
     </section>
+    <section id="projects">
+        <h2>Projektid</h2>
+        <ul>
+            <li><a href="https://github.com/MartinKemppi/Zmej" target="_blank">Snake|Madu</a></li>
+            <li><a href="https://github.com/MartinKemppi/Jalgpall" target="_blank">Football|Jalgpall</a></li>
+            <li><a href="https://github.com/MartinKemppi/Tooded_DB" target="_blank">Shop|Pood</a></li>
+            <li><a href="https://github.com/MartinKemppi/Aknaruloode_tootmine" target="_blank">Production of window blinds|Aknaruloode tootmine</a></li>
+        </ul>
+    </section>
 </main>
     <footer>
         <p>&copy; 2024 Martin Kemppi</p>
