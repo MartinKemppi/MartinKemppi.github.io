@@ -20,7 +20,8 @@
 </header>
 <main>
     <section id="about">
-        <h2>Martin Kemppi</h2>
+        <h2>Mina</h2>
+        <p>Martin Kemppi</p>
         <p>Noorem tarkvaraarendaja</p>
     </section>
     <section id="skills">
