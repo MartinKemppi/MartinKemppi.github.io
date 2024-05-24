@@ -8,7 +8,15 @@
 </head>
 <body>
 <header>
-
+    <h1>Minu leht</h1>
+    <nav>
+        <ul>
+            <li><a href="#about">Minust</a></li>
+            <li><a href="#skills">Oskused</a></li>
+            <li><a href="#projects">Projektid</a></li>
+            <li><a href="#pildid">Pilt</a></li>
+        </ul>
+    </nav>
     <footer>
         <p>&copy; 2024 Martin Kemppi</p>
     </footer>
