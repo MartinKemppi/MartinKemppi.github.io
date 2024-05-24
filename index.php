@@ -17,6 +17,13 @@
             <li><a href="#pildid">Pilt</a></li>
         </ul>
     </nav>
+</header>
+<main>
+    <section id="about">
+        <h2>Martin Kemppi</h2>
+        <p>Noorem tarkvaraarendaja</p>
+    </section>
+</main>
     <footer>
         <p>&copy; 2024 Martin Kemppi</p>
     </footer>
