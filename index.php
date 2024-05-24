@@ -52,6 +52,10 @@
             <li><a href="https://github.com/MartinKemppi/Aknaruloode_tootmine" target="_blank">Production of window blinds|Aknaruloode tootmine</a></li>
         </ul>
     </section>
+    <section id="pildid">
+        <h2>Pilt</h2>
+        <img src="aknarulood.png" alt="aknaprojekt">
+    </section>
 </main>
     <footer>
         <p>&copy; 2024 Martin Kemppi</p>
