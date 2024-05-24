@@ -85,10 +85,7 @@ li b {
     font-size: 1.2em;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-}
+
 
 header {
     text-align: center;
@@ -117,4 +114,15 @@ nav ul li:last-child {
 #projects h2,
 #pildid h2 {
     text-align: center;
+}
+
+#pildid {
+    position: relative;
+}
+
+#aknaprojekt {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

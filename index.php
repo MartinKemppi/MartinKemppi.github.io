@@ -54,8 +54,8 @@
         </ul>
     </section>
     <section id="pildid">
-        <h2>Pilt</h2>
-        <img src="aknarulood.png" alt="aknaprojekt">
+        <h2>Pilt aknaruloode tootmisest</h2>
+        <img src="aknarulood.png" alt="aknaprojekt" id="aknaprojekt" class="center">
     </section>
 </main>
     <footer>
