@@ -112,7 +112,8 @@ nav ul li:last-child {
 #about h2,
 #skills h2,
 #projects h2,
-#pildid h2 {
+#pildid h2,
+#mvp h2{
     text-align: center;
 }
 
