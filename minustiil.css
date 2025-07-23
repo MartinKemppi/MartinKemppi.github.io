@@ -85,8 +85,6 @@ li b {
     font-size: 1.2em;
 }
 
-
-
 header {
     text-align: center;
 }
@@ -109,16 +107,8 @@ nav ul li:last-child {
     margin-right: 0;
 }
 
-#about h2,
-#skills h2,
-#projects h2,
-#pildid h2,
-#mvp h2{
+#about h2,#skills h2,#projects h2,#portfoolio h2, #projects, #portfoolio,#footer {
     text-align: center;
-}
-
-#pildid {
-    position: relative;
 }
 
 #aknaprojekt {
@@ -126,4 +116,55 @@ nav ul li:last-child {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+body.dark-theme {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+body.dark-theme section {
+    background-color: #1e1e1e;
+}
+
+body.dark-theme ul li {
+    background-color: #2c2c2c;
+}
+
+body.dark-theme a {
+    color: #90caf9;
+}
+
+body.dark-theme th {
+    background-color: #2a2a2a;
+}
+
+body.dark-theme tr:nth-child(even) {
+    background-color: #1a1a1a;
+}
+
+.header-wrapper {
+    position: relative;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.header-wrapper h1 {
+    margin: 0;
+}
+
+#teema {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.5em;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+#teema:hover {
+    transform: translateY(-50%) scale(1.2);
 }
