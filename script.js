@@ -28,28 +28,28 @@ const translations = {
                 'Saksa keel - A1'
             ],
             programmingList: [
-                'Programmeerimiskeeled: SQL, C#, Python, PHP, JavaScript, HTML, CSS, .NET, Java, XSL, XML',
-                'Teadmiste haldus ja juhendmaterjalide koostamine: WordPress',
-                'Riistvara: Arvutite komplekteerimine',
-                'Projektihaldus ja koostöövahendid: Atlassian Jira, Trello, Miro',
-                'Tehisintellekti tööriistad: ChatGPT, Microsoft 365 Copilot, Google Gemini',
-                'Testimine: Postman, Cypress, Selenium',
-                'Operatsioonisüsteemid: Windows 7, Windows 8.1, Windows 10, Windows 11, Ubuntu Desktop, Ubuntu Server',
-                'Virtualiseerimine: VirtualBox, Hyper-V',
-                'Serveritarkvara ja andmebaasid: MySQL, MS SQL, MongoDB, MS Access, ASP.NET MVC',
-                'Kontoritarkvara: MS Word, MS Excel, MS PowerPoint, MS Visio, MS Project, MS Outlook, MS Teams, MS Planner, MS SharePoint',
-                'Veebilehitsejad: Google Chrome, Mozilla Firefox, Opera, Internet Explorer',
-                'Graafika ja multimeedia: Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Audition, Gimp, Inkscape',
-                'Võrgundus: Cisco',
-                'Side ja e-post: MS Mail',
-                'Versioneerimine ja CI/CD: Git, GitHub'
+                '<strong>Programmeerimiskeeled</strong>: SQL, C#, Python, PHP, JavaScript, HTML, CSS, .NET, Java, XSL, XML',
+                '<strong>Teadmiste haldus ja juhendmaterjalide koostamine</strong>: WordPress',
+                '<strong>Riistvara</strong>: Arvutite komplekteerimine',
+                '<strong>Projektihaldus ja koostöövahendid</strong>: Atlassian Jira, Trello, Miro',
+                '<strong>Tehisintellekti tööriistad</strong>: ChatGPT, Microsoft 365 Copilot, Google Gemini',
+                '<strong>Testimine</strong>: Postman, Cypress, Selenium',
+                '<strong>Operatsioonisüsteemid</strong>: Windows 7, Windows 8.1, Windows 10, Windows 11, Ubuntu Desktop, Ubuntu Server',
+                '<strong>Virtualiseerimine</strong>: VirtualBox, Hyper-V',
+                '<strong>Serveritarkvara ja andmebaasid</strong>: MySQL, MS SQL, MongoDB, MS Access, ASP.NET MVC',
+                '<strong>Kontoritarkvara</strong>: MS Word, MS Excel, MS PowerPoint, MS Visio, MS Project, MS Outlook, MS Teams, MS Planner, MS SharePoint',
+                '<strong>Veebilehitsejad</strong>: Google Chrome, Mozilla Firefox, Opera, Internet Explorer',
+                '<strong>Graafika ja multimeedia</strong>: Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Audition, Gimp, Inkscape',
+                '<strong>Võrgundus</strong>: Cisco',
+                '<strong>Side ja e-post</strong>: MS Mail',
+                '<strong>Versioneerimine ja CI/CD</strong>: Git, GitHub'
             ]
         },
         about: [
-            'Nimi: Martin Kemppi',
-            'Haridustase: Kutsekeskharidus',
-            'Elutse: <a href="https://www.kutseregister.ee/ctrl/et/Tunnistused/vaata/11410898">Noorem tarkvaraarendaja</a>',
-            'Elukoht: Tallinn'
+            '<strong>Nimi</strong>: Martin Kemppi',
+            '<strong>Haridustase</strong>: Kutsekeskharidus',
+            '<strong>Elukutse</strong>: <a href="https://www.kutseregister.ee/ctrl/et/Tunnistused/vaata/11410898">Noorem tarkvaraarendaja</a>',
+            '<strong>Elukoht</strong>: Tallinn'
         ]
     },
     en: {
@@ -76,28 +76,28 @@ const translations = {
                 'German - A1'
             ],
             programmingList: [
-                'Programming languages: SQL, C#, Python, PHP, JavaScript, HTML, CSS, .NET, Java, XSL, XML',
-                'Knowledge management and documentation: WordPress',
-                'Hardware: Computer assembly',
-                'Project management and collaboration tools: Atlassian Jira, Trello, Miro',
-                'AI tools: ChatGPT, Microsoft 365 Copilot, Google Gemini',
-                'Testing: Postman, Cypress, Selenium',
-                'Operating systems: Windows 7, Windows 8.1, Windows 10, Windows 11, Ubuntu Desktop, Ubuntu Server',
-                'Virtualization: VirtualBox, Hyper-V',
-                'Server software and databases: MySQL, MS SQL, MongoDB, MS Access, ASP.NET MVC',
-                'Office software: MS Word, MS Excel, MS PowerPoint, MS Visio, MS Project, MS Outlook, MS Teams, MS Planner, MS SharePoint',
-                'Browsers: Google Chrome, Mozilla Firefox, Opera, Internet Explorer',
-                'Graphics and multimedia: Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Audition, Gimp, Inkscape',
-                'Networking: Cisco',
-                'Communication and mail: MS Mail',
-                'Version control and CI/CD: Git, GitHub'
+                '<strong>Programming languages</strong>: SQL, C#, Python, PHP, JavaScript, HTML, CSS, .NET, Java, XSL, XML',
+                '<strong>Knowledge management and documentation</strong>: WordPress',
+                '<strong>Hardware</strong>: Computer assembly',
+                '<strong>Project management and collaboration tools</strong>: Atlassian Jira, Trello, Miro',
+                '<strong>AI tools</strong>: ChatGPT, Microsoft 365 Copilot, Google Gemini',
+                '<strong>Testing</strong>: Postman, Cypress, Selenium',
+                '<strong>Operating systems</strong>: Windows 7, Windows 8.1, Windows 10, Windows 11, Ubuntu Desktop, Ubuntu Server',
+                '<strong>Virtualization</strong>: VirtualBox, Hyper-V',
+                '<strong>Server software and databases</strong>: MySQL, MS SQL, MongoDB, MS Access, ASP.NET MVC',
+                '<strong>Office software</strong>: MS Word, MS Excel, MS PowerPoint, MS Visio, MS Project, MS Outlook, MS Teams, MS Planner, MS SharePoint',
+                '<strong>Browsers</strong>: Google Chrome, Mozilla Firefox, Opera, Internet Explorer',
+                '<strong>Graphics and multimedia</strong>: Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Audition, Gimp, Inkscape',
+                '<strong>Networking</strong>: Cisco',
+                '<strong>Communication and mail</strong>: MS Mail',
+                '<strong>Version control and CI/CD</strong>: Git, GitHub'
             ]
         },
         about: [
-            'Name: Martin Kemppi',
-            'Education: Vocational secondary education',
-            'Profession: <a href="https://www.kutseregister.ee/ctrl/et/Tunnistused/vaata/11410898">Junior Software Developer</a>',
-            'Location: Tallinn'
+            '<strong>Name</strong>: Martin Kemppi',
+            '<strong>Education</strong>: Vocational secondary education',
+            '<strong>Profession</strong>: <a href="https://www.kutseregister.ee/ctrl/et/Tunnistused/vaata/11410898">Junior Software Developer</a>',
+            '<strong>Location</strong>: Tallinn'
         ]
     },
     ru: {
@@ -124,28 +124,28 @@ const translations = {
                 'Немецкий - A1'
             ],
             programmingList: [
-                'Языки программирования: SQL, C#, Python, PHP, JavaScript, HTML, CSS, .NET, Java, XSL, XML',
-                'Управление знаниями и документация: WordPress',
-                'Аппаратное обеспечение: Сборка компьютеров',
-                'Управление проектами и инструменты для совместной работы: Atlassian Jira, Trello, Miro',
-                'Инструменты ИИ: ChatGPT, Microsoft 365 Copilot, Google Gemini',
-                'Тестирование: Postman, Cypress, Selenium',
-                'Операционные системы: Windows 7, Windows 8.1, Windows 10, Windows 11, Ubuntu Desktop, Ubuntu Server',
-                'Виртуализация: VirtualBox, Hyper-V',
-                'Серверное ПО и базы данных: MySQL, MS SQL, MongoDB, MS Access, ASP.NET MVC',
-                'Офисные программы: MS Word, MS Excel, MS PowerPoint, MS Visio, MS Project, MS Outlook, MS Teams, MS Planner, MS SharePoint',
-                'Браузеры: Google Chrome, Mozilla Firefox, Opera, Internet Explorer',
-                'Графика и мультимедиа: Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Audition, Gimp, Inkscape',
-                'Сетевые технологии: Cisco',
-                'Связь и почта: MS Mail',
-                'Контроль версий и CI/CD: Git, GitHub'
+                '<strong>Языки программирования</strong>: SQL, C#, Python, PHP, JavaScript, HTML, CSS, .NET, Java, XSL, XML',
+                '<strong>Управление знаниями и документация</strong>: WordPress',
+                '<strong>Аппаратное обеспечение</strong>: Сборка компьютеров',
+                '<strong>Управление проектами и инструменты для совместной работы</strong>: Atlassian Jira, Trello, Miro',
+                '<strong>Инструменты ИИ</strong>: ChatGPT, Microsoft 365 Copilot, Google Gemini',
+                '<strong>Тестирование</strong>: Postman, Cypress, Selenium',
+                '<strong>Операционные системы</strong>: Windows 7, Windows 8.1, Windows 10, Windows 11, Ubuntu Desktop, Ubuntu Server',
+                '<strong>Виртуализация</strong>: VirtualBox, Hyper-V',
+                '<strong>Серверное ПО и базы данных</strong>: MySQL, MS SQL, MongoDB, MS Access, ASP.NET MVC',
+                '<strong>Офисные программы</strong>: MS Word, MS Excel, MS PowerPoint, MS Visio, MS Project, MS Outlook, MS Teams, MS Planner, MS SharePoint',
+                '<strong>Браузеры</strong>: Google Chrome, Mozilla Firefox, Opera, Internet Explorer',
+                '<strong>Графика и мультимедиа</strong>: Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Audition, Gimp, Inkscape',
+                '<strong>Сетевые технологии</strong>: Cisco',
+                '<strong>Связь и почта</strong>: MS Mail',
+                '<strong>Контроль версий и CI/CD</strong>: Git, GitHub'
             ]
         },
         about: [
-            'Имя: Мартин Кемппи',
-            'Образование: Профессиональное среднее образование',
-            'Профессия: <a href="https://www.kutseregister.ee/ctrl/et/Tunnistused/vaata/11410898">Младший разработчик программного обеспечения</a>',
-            'Место жительства: Таллинн'
+            '<strong>Имя</strong>: Мартин Кемппи',
+            '<strong>Образование</strong>: Профессиональное среднее образование',
+            '<strong>Профессия</strong>: <a href="https://www.kutseregister.ee/ctrl/et/Tunnistused/vaata/11410898">Младший разработчик программного обеспечения</a>',
+            '<strong>Место жительства</strong>: Таллинн'
         ]
     }
 };
